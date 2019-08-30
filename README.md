@@ -24,7 +24,7 @@ From these results it can be suggested that significantly effect both the order 
 
 ## Customer Contacts
 
-<img src="customer_contacts.png">
+<img src="Customer_contact_bax_swarm.png">
 
 The next task was to determine if different customer contact types within the corporate hierarchy spend more on orders than others. The aim of this analysis was to help Northwind Traders target specific contacts within prospective customer companies that statistically have higher purchase order totals. There was a wide range of orders made by each contact title (7 orders made by Owner/Marketing Assistant to 160 orders made by Sales Representatives), thus the different contact titles were logically grouped by suspected corporate level into four groups of relatively equal sample sizes (Owners, Management, Representative and Agents, and Assistants and Admins). Pairwise comparisons were made between the distribution of order totals for each contact type and it was found that there was no significant difference. While these findings suggest that no recommendation can be made in terms of customer contact types to target for sales, the results do suggest that simply establishing a customer contact, regardless of title, is positive in terms of potential sales.
 
