@@ -34,7 +34,8 @@ The next task was to determine if different customer contact types within the co
 
 ## Shipping
 
-<img src="Ship_Cost_Speed_Delay_Box.png">
+<img src="shipping_cost_process.png">
+<img src="shipping_delay.png">
 
 A thorough analysis of the Northwind Traders shipping department was conducted with the aim evaluating the performance and costs of the three companies (Speedy Express, United Package, and Federal Package) on contract. Pairwise comparisons between the distribution of shipping costs for the three companies was performed. The chart in the upper left of the figure above displays the distribution of shipping cost and the chart in the upper right displays the distribution of order processing times for each company. While there was no significant difference found between the shipping costs of the three companies, Federal Shipper had significantly shorter order processing times than the other two companies. Additionally, while there were no significant differences in the processing times based on shipment size, the two graphs on the bottom of the figure demonstrate that Federal Shipper had the fewest number of late deliveries and the shortest average length of shipment delays. Thus, if speed of delivery is the primary concern, Federal Shipper should be selected as the exclusive shipping company as it has significantly shorter processing times and does not differ significantly in terms of cost with the other two companies.
 
