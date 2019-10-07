@@ -40,7 +40,7 @@ A thorough analysis of the Northwind Traders shipping department was conducted w
 
 However, when shipping costs were evaluated by delivery region (figure displayed below), Federal Shipper had the greatest number of significant cost differences between the regional comparisons and United Package had the fewest number of significant cost differences. Therefore, if annual shipping costs are difficult to predict (and therefore budget appropriately) while utilizing three companies, Northwind Traders should consider using  United Package exclusively as their shipping company because its overall shipping costs do not differ significantly from the other two companies and because its regional shipping costs are the most uniform.
 
-<img src="Shipping_Cost_Region_Bar.png">
+<img src="shipping_cost_region.png">
 
 ## Employee Sales Performance
 
